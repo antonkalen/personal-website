@@ -1,11 +1,47 @@
 ---
-title: "personal-website"
+title: "Anton Kalén"
+
+about:
+  template: trestles
+  image: profile-picture.jpg
+  image-width: 14em
+  links:
+    - text: Twitter
+      href: https://twitter.com/AntonKalen
+    - text: Researchgate
+      href: https://www.researchgate.net/profile/Anton-Kalen
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=CaUopwcAAAAJ
+    - text: ORCID
+      href:  https://orcid.org/0000-0002-8519-6596
+    - text: LinkedIn
+      href: linkedin.com/in/antonkalen
 ---
 
-This is a Quarto website.
+Hi there! I am a researcher interested in just about anything related to sport performance and development.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Currently, I am working as a post-doc in **sports analytics** at the University of Skövde and Swedish Olympic Committee, developing better decision support for coaches, athletes and sport organisations.
 
-```{r}
-1 + 1
-```
+
+
+<!-- ## Education -->
+
+<!-- **PhD in Sport Science** | 2019 -- 2021<br> -->
+<!-- University of Vigo | Spain -->
+
+<!-- **MSc in Applied Statistics** | 2017 -- 2018<br> -->
+<!-- University of Granada | Spain -->
+
+<!-- **MSc in Sport Science** | 2016 -- 2017<br> -->
+<!-- University of Vigo | Spain -->
+
+<!-- **BSc in Sport Science and Coaching** | 2012 -- 2016<br> -->
+<!-- Swedish School of Sport and Health Sciences  -->
+
+<!-- ## Experience -->
+
+<!-- **Postdoc in Sports Analytics** | Oct 2021 -- Present<br> -->
+<!-- University of Skövde & [SOK](https://sok.se/in-english.html) | Sweden -->
+
+<!-- **Lecturer in Psychology** | Mar 2021 -- Jun 2021<br> -->
+<!-- University of Halmstad | Sweden -->
