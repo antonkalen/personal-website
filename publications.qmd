@@ -1,0 +1,182 @@
+---
+title: Publications
+---
+
+## Journal articles
+
+### 2022
+
+**Does Vibration Foam Roller Influence Performance and Recovery? A Systematic Review and Meta-analysis.** *Sports Medicine-Open*<br>
+Alejandra Alonso-Calvete, Miguel Lorenzo-Martínez, Alexis Padrón-Cabo, Alexandra Pérez-Ferreirós, **Anton Kalén**, Cristian Abelairas-Gómez, & Ezequiel Rey
+<br>
+[PDF](https://sportsmedicine-open.springeropen.com/track/pdf/10.1186/s40798-022-00421-2.pdf){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-022-00421-2){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1186/s40798‑022‑00421‑2){.btn .btn-outline-secondary .btn-sm}
+
+**Statistical supervised learning with engineering data: A case study of low frequency noise measured on semiconductor devices** *The International Journal of Advanced Manufacturing Technology*<br>
+María Luz Gámiz, Anton Kalén, Rafael Nozal-Cañadas, Rocío Raya-Miranda
+<br>
+[PDF](https://link.springer.com/content/pdf/10.1007/s00170-022-08949-z.pdf){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://link.springer.com/article/10.1007/s00170-022-08949-z){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1007/s00170-022-08949-z){.btn .btn-outline-secondary .btn-sm}
+
+**The prevalence of emotional exhaustion in professional and semiprofessional coaches** *Journal of Clinical Sport Psychology*<br>
+Erik Lundkvist, Henrik Gustafsson, Daniel Madigan, Sören Hjälm, **Anton Kalén**
+<br>
+[PDF (post-print)](https://ray.yorksj.ac.uk/id/eprint/5876/1/Lundkvist%20et%20al.%20(2022).pdf){.btn .btn-outline-secondary .btn-sm}
+[Link](https://journals.humankinetics.com/view/journals/jcsp/aop/article-10.1123-jcsp.2021-0039/article-10.1123-jcsp.2021-0039.xml){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1123/jcsp.2021-0039){.btn .btn-outline-secondary .btn-sm}
+
+### 2021
+
+**The role of domain-specific and domain-general cognitive functions and skills in sports performance: A meta-analysis** *Psychological Bulletin*
+<br>
+**Anton Kalén**, Elisa Bisagno, Lisa Musculus, Markus Raab, Alexandra Pérez-Ferreirós, A Mark Williams, Duarte Araújo, Magnus Lindwall, Andreas Ivarsson
+<br>
+[PDF](https://psycnet.apa.org/fulltext/2022-52851-003.pdf){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://psycnet.apa.org/fulltext/2022-52851-003.html){.btn .btn-outline-secondary .btn-sm}
+[Data & Code](http://doi.org/10.17605/OSF.IO/6QEKD){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1037/bul0000355){.btn .btn-outline-secondary .btn-sm}
+
+**Talent selection strategies and relationship with success in European basketball national team programs** *Frontiers in Psychology*
+<br>
+**Anton Kalén**, Alexis Padrón-Cabo, Erik Lundkvist, Ezequiel Rey, Alexandra Pérez-Ferreirós
+<br>
+[PDF](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.666839/pdf){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.666839/full){.btn .btn-outline-secondary .btn-sm}
+[Data & Code](https://doi.org/10.17605/OSF.IO/ZHVDS){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.3389/fpsyg.2021.666839){.btn .btn-outline-secondary .btn-sm}
+
+**The influence of initial selection age, relative age effect and country long-term performance on the re-selection process in European basketball youth national teams** *Journal of Sports Sciences*
+<br>
+**Anton Kalén**, Erik Lundkvist, Andreas Ivarsson, Ezequiel Rey, Alexandra Pérez-Ferreirós
+<br>
+[PDF](https://www.tandfonline.com/doi/pdf/10.1080/02640414.2020.1823109){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://www.tandfonline.com/doi/full/10.1080/02640414.2020.1823109){.btn .btn-outline-secondary .btn-sm}
+[Data & Code](https://doi.org/10.17605/OSF.IO/DA7R9){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1080/02640414.2020.1823109){.btn .btn-outline-secondary .btn-sm}
+
+**Do elite soccer players cover less distance when their team spent more time in possession of the ball?** *Science and Medicine in Football*
+<br>
+Miguel Lorenzo-Martinez, **Anton Kalén**, Ezequiel Rey, Roberto López-Del Campo, Ricardo Resta, Carlos Lago-Peñas
+<br>
+[Link](https://www.tandfonline.com/doi/abs/10.1080/24733938.2020.1853211){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1080/24733938.2020.1853211){.btn .btn-outline-secondary .btn-sm}
+
+**Association of diet, physical activity guidelines and cardiometabolic risk markers in children** *Nutrients*
+<br>
+Mercedes Gil-Campos, Alexandra Pérez-Ferreirós, Francisco Jesús Llorente-Cantarero, Augusto Anguita-Ruiz, Juan José Bedoya-Carpente, **Anton Kalén**, Luis A Moreno, Gloria Bueno, Ángel Gil, Concepción M Aguilera, Rosaura Leis
+<br>
+[PDF](https://www.mdpi.com/2072-6643/13/9/2954/pdf?version=1630076962){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://www.mdpi.com/2072-6643/13/9/2954/htm){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.3390/nu13092954){.btn .btn-outline-secondary .btn-sm}
+
+**Do elite soccer players cover longer distance when losing? Differences between attackers and defenders** *International Journal of Sports Science & Coaching*
+<br>
+Carlos Lago-Peñas, **Anton Kalén**, Miguel Lorenzo-Martinez, Roberto López-Del Campo, Ricardo Resta, Ezequiel Rey
+<br>
+[Link](https://journals.sagepub.com/doi/abs/10.1177/1747954120982270){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1177/1747954120982270){.btn .btn-outline-secondary .btn-sm}
+
+**Effects of age on physical and technical performance in National Basketball Association (NBA) players** *Research in Sports Medicine*
+<br>
+**Anton Kalén**, Alexandra Pérez-Ferreirós, Pablo B Costa, Ezequiel Rey
+<br>
+[Link](https://www.tandfonline.com/doi/abs/10.1080/15438627.2020.1809411){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1080/15438627.2020.1809411){.btn .btn-outline-secondary .btn-sm}
+
+**Baby-Led Weaning: What Role Does It Play in Obesity Risk during the First Years? A Systematic Review** *Nutrients*
+<br>
+Nazareth Martinón-Torres, Nathalie Carreira, Rosaura Picáns-Leis, Alexandra Pérez-Ferreirós, **Anton Kalén**, Rosaura Leis
+<br>
+[PDF](https://www.mdpi.com/2072-6643/13/3/1009/pdf?version=1616548757){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://www.mdpi.com/2072-6643/13/3/1009/htm){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.3390/nu13031009){.btn .btn-outline-secondary .btn-sm}
+
+### 2020
+
+**Elite soccer players do not cover less distance in the second half of the matches when game interruptions are considered** *Journal of Strength and Conditioning Research*
+<br>
+Ezequiel Rey, **Anton Kalén**, Miguel Lorenzo-Martínez, Roberto López-Del Campo, Fabio Nevado-Garrosa, Carlos Lago-Peñas
+<br>
+[Link](https://journals.lww.com/nsca-jscr/Abstract/9000/Elite_Soccer_Players_do_Not_Cover_Less_Distance_in.94120.aspx){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1519/JSC.0000000000003935){.btn .btn-outline-secondary .btn-sm}
+
+**Is low-frequency electrical stimulation a tool for recovery after a water rescue? A cross-over study with lifeguards** *International Journal of Environmental Research and Public Health*
+<br>
+Roberto Barcala-Furelos, Alicia González-Represas, Ezequiel Rey, Alicia Martínez-Rodríguez, **Anton Kalén**, Olga Marques, Luís Rama
+<br>
+[PDF](https://www.mdpi.com/1660-4601/17/16/5854/pdf?version=1597328248){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://www.mdpi.com/1660-4601/17/16/5854/htm){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.3390/ijerph17165854){.btn .btn-outline-secondary .btn-sm}
+
+**Effects of training with an agility ladder on sprint, agility, and dribbling performance in youth soccer players** *Journal of Human Kinetics*
+<br>
+Alexis Padrón-Cabo, Ezequiel Rey, **Anton Kalén**, Pablo B Costa
+<br>
+[PDF](https://www.sciendo.com/49b256ce-1da5-4506-afe9-7879e0d45356){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://www.sciendo.com/article/10.2478/hukin-2019-0146){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.2478/hukin-2019-0146){.btn .btn-outline-secondary .btn-sm}
+
+### 2019
+
+**Age‐related physical and technical match performance changes in elite soccer players** *Scandinavian Journal of Medicine & Science in Sports*
+<br>
+Alejandro Sal de Rellán‐Guerra, Ezequiel Rey, **Anton Kalén**, Carlos Lago‐Peñas
+<br>
+[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/sms.13463){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1111/sms.13463){.btn .btn-outline-secondary .btn-sm}
+
+**Reliability of Teams’ game-related statistics in basketball: number of games required and minimal detectable change** *Research Quarterly for Exercise and Sport*
+<br>
+Alexandra Pérez-Ferreirós, **Anton Kalén**, Miguel-Ángel Gómez, Ezequiel Rey
+<br>
+[Link](https://www.tandfonline.com/doi/abs/10.1080/02701367.2019.1597243){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1080/02701367.2019.1597243){.btn .btn-outline-secondary .btn-sm}
+
+**How does Video Assistant Referee (VAR) modify the game in elite soccer?** *International Journal of Performance Analysis in Sport*
+<br>
+Carlos Lago-Peñas, Ezequiel Rey, **Anton Kalén**
+<br>
+[Link](https://www.tandfonline.com/doi/abs/10.1080/24748668.2019.1646521){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1080/24748668.2019.1646521){.btn .btn-outline-secondary .btn-sm}
+
+**Test–retest reliability of skill tests in the F-MARC battery for youth soccer players** *Perceptual and Motor Skills*
+<br>
+Alexis Padrón-Cabo, Ezequiel Rey, Alexandra Pérez-Ferreirós, **Anton Kalén**
+<br>
+[Link](https://journals.sagepub.com/doi/abs/10.1177/0031512519866038){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1177/0031512519866038){.btn .btn-outline-secondary .btn-sm}
+
+**Are soccer players older now than before? Aging trends and market value in the last three decades of the UEFA Champions League** *Frontiers in Psychology*
+<br>
+**Anton Kalén**, Ezequiel Rey, Alejandro Sal de Rellán-Guerra, Carlos Lago-Peñas
+<br>
+[PDF](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00076/pdf){.btn .btn-outline-secondary .btn-sm}
+[Full-text](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00076/full){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.3389/fpsyg.2019.00076){.btn .btn-outline-secondary .btn-sm}
+
+### 2018
+
+**Short-and mid-term effects of the 2010 rule changes on game-related statistics in European basketball championships: An interrupted time series analysis** *International Journal of Sports Science & Coaching*
+<br>
+Alexandra Pérez-Ferreirós, **Anton Kalén**, Ezequiel Rey
+<br>
+[Link](https://journals.sagepub.com/doi/abs/10.1177/1747954118765738){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1177/1747954118765738){.btn .btn-outline-secondary .btn-sm}
+
+### 2017
+
+**How can lifeguards recover better? A cross-over study comparing resting, running, and foam rolling** *The American Journal of Emergency Medicine*
+<br>
+**Anton Kalén**, Alexandra Pérez-Ferreirós, Roberto Barcala-Furelos, María Fernández-Méndez, Alexis Padrón-Cabo, Jose-Antonio Prieto, Andrés Ríos-Ave, Cristian Abelairas-Gómez
+<br>
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S0735675717304722){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1016/j.ajem.2017.06.028){.btn .btn-outline-secondary .btn-sm}
+
+**The impact of different recovery times between matches on physical and technical performance according to playing positions** *International Journal of Performance Analysis in Sport*
+<br>
+Erik Penedo-Jamardo, Ezequiel Rey, Alexis Padrón-Cabo, **Anton Kalén**
+<br>
+[Link](https://www.tandfonline.com/doi/abs/10.1080/24748668.2017.1331576){.btn .btn-outline-secondary .btn-sm}
+[DOI](https://doi.org/10.1080/24748668.2017.1331576){.btn .btn-outline-secondary .btn-sm}
